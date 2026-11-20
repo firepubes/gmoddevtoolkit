@@ -1,0 +1,9 @@
+{
+    "title": "GDT Studio - Advanced Garry's Mod Developer Toolkit & Runtime Inspector",
+    "type": "tool",
+    "tags": ["developer", "utility"],
+    "ignore": [
+        "*.git*",
+        "*.md"
+    ]
+}
