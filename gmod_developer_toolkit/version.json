@@ -1,0 +1,16 @@
+{
+    "version": "3.0.0",
+    "release_date": "2026-11-20",
+    "title": "GDT Studio v3.0.0 Major Overhaul",
+    "changelog": [
+        "Interactive Lua REPL & Code Sandbox with stdout capture",
+        "3D Entity Inspector with crosshair raytracer and world halo visualizer",
+        "Hook Matrix with exact file/line debug info resolver and live suppression",
+        "Network traffic sniffer and test packet dispatcher bench",
+        "Forensic Lua error monitor with deduplication and Discord exporter",
+        "Addon architecture and file shadowing collision scanner",
+        "System dashboard with rolling performance canvas charts",
+        "GitHub auto-detection update system"
+    ],
+    "download_url": "https://github.com/firepubes/gmoddevtoolkit"
+}
